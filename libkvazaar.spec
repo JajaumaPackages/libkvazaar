@@ -10,6 +10,7 @@ Source0:        https://github.com/ultravideo/kvazaar/archive/v%{version}.tar.gz
 BuildRequires:  yasm
 BuildRequires:  autoconf
 BuildRequires:  automake
+BuildRequires:  libtool
 
 %description
 An open-source HEVC encoder licensed under LGPLv2.1.
